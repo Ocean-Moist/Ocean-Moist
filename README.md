@@ -1,8 +1,8 @@
 call me rohan. he/him
 
-"Unfortunately, the tendency for complex, error-prone and slow software seems to be prevalent in the present-day software industry."
-
-- suckless.org
+> "Unfortunately, the tendency for complex, error-prone and slow software seems to be prevalent in the present-day software industry."
+> 
+> — suckless.org
 
 rohanganapa@gmail.com
 
