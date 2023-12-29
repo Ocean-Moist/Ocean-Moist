@@ -2,4 +2,4 @@
 > 
 > — suckless.org
 
-rohanganapa@gmail.com | [personal website]rohan.ga
+rohanganapa@gmail.com | [personal website](rohan.ga)
