@@ -2,4 +2,6 @@
 > 
 > — suckless.org
 
+build.
+
 rohanganapa@gmail.com | [personal website](https://rohan.ga)
